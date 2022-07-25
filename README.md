@@ -12,37 +12,37 @@ The very next task was to install the lamp on the linux ubuntu and hosting a loc
 ## :arrow_right: *DAY 2 (13/07/2022)*
 Read about the frappe framework, its functionalities and advantage along with its installation process. Beside that looked over the lamp that was told to install earlier.
 
-## :arrow_right: * DAY 3 (14/07/2022)*
+## :arrow_right: *DAY 3 (14/07/2022)*
 Went on to the frappe framework offficial page and headed with the  installation process and kept on recovering the erros. This activity took about 2 days.then we found another souces fro teh installation of the framework because theh version of the linux was not compactable with the official instructions. The then used instructionn manual was(https://github.com/D-codE-Hub/Guide-to-Install-Frappe-ERPNext-in-Ubuntu-22.04-LTS) for the proper installation of the later.
 
-##  :arrow_right: * DAY 4/DAY 5/DAY 6 (15/07/2022 to 17/072022)*
+##  :arrow_right: *DAY 4/DAY 5/DAY 6 (15/07/2022 to 17/072022)*
 As the frappe was installed, the futher reading process about the usage of the framework was done. the LIBERARY MANAGMENT SYSTEM was initialted and the doctypes were created, beside that the Markdown lanuage was also read and the cheatsheets were read to know about the different tags in the later language. This took us 2 days.
 
-##  :arrow_right: * DAY 7 (18/07/2022)*
+##  :arrow_right: *DAY 7 (18/07/2022)*
 Today i go through the some steps of Library Management and implement in frameframework.
 
-##  :arrow_right: * DAY 8 (19/07/2022)*
+##  :arrow_right: *DAY 8 (19/07/2022)*
 Today i go through the library managements features like- Library Membership,Linked Doctypes,Controller validation for membership, Library Transaction, Library Settings and some features of form scripts.  
 
 
-##  :arrow_right: * DAY 9 (20/07/2022)*
+##  :arrow_right: *DAY 9 (20/07/2022)*
 Today i am completing all the steps of Library Management System like- create a doctype, doctype features, controllers methods, types of doctype, form scripts and so on.
 After complition of Library Mannagement System i can enable all the features of web pages and i can view all information of web pages on the local server.
 
-##  :arrow_right: * DAY 10 (21/07/2022)*
+##  :arrow_right: *DAY 10 (21/07/2022)*
 Today i am completed the frappe Library Management and view the articles and articles list on web pages.Now i am starting the work to make the webpage to show the students list, mentor list & students mentor list by searching student name and mentor name. 
 
 
-## :arrow_right: * DAY 11 (22/07/2022)*
+## :arrow_right: *DAY 11 (22/07/2022)*
 * Library management system
 * Full review on library management system
 * Got the new task of Quadratic Equation Website on Frappe
 
-## :arrow_right: * DAY 12 (23/07/2022)*
+## :arrow_right: *DAY 12 (23/07/2022)*
 * Made a quadratic equation website and a app. on the folder
 * Gave the presentation on this respectively
 
-## :arrow_right: * DAY 13(25/07/2022)*
+## :arrow_right: *DAY 13(25/07/2022)*
 * Helped on the mentor mentee system on Frappe, given to my team member 
 * Got the task of making financial systems from my mentors
 * Took two more members as suggested by sir(Deepak, Simran)
